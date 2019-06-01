@@ -288,11 +288,11 @@ Proficiency Bonus: +3
 | **Club** | Melee | +6 | 1d4+3 _bludgeoning_ | Light |
 | **Club** | Melee | +6 | 1d4+3 _bludgeoning_ | Light |
 
-Monk Abilities: (Unarmored Defense), Martial Arts (1d6), Ki (6 points), Unarmored Movement (+15 ft), Monastic Tradition: Way of the Kensei, Path of the Kensei (club, darts), Deflect Missiles, Slow Fall, Extra Attack, Stunning Strike, Ki-Empowered Strikes, One with the Blade
+**Monk Abilities:** (Unarmored Defense), Martial Arts (1d6), Ki (6 points), Unarmored Movement (+15 ft), Monastic Tradition: Way of the Kensei, Path of the Kensei (club, darts), Deflect Missiles, Slow Fall, Extra Attack, Stunning Strike, Ki-Empowered Strikes, One with the Blade
 
-Tortle Abilities: Hold Breath, Natural Armor, Shell Defense, Survival Instinct
+**Tortle Abilities:** Hold Breath, Natural Armor, Shell Defense, Survival Instinct
 
-Proficiencies: Simple weapons, shortswords, lute, painter's supplies
+**Proficiencies:** Simple weapons, shortswords, lute, painter's supplies
 
 **Saving Throws:** Strength, Dexterity
 
