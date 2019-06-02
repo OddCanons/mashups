@@ -2,7 +2,7 @@
 
 These rules assume you have the core rule book (EE), _Fly Casual_ (FC), _Special Modifications_ (SM), and _No Disintegrations_ (ND). In order to make these characters completely by the book, Testudians _count as_ **Southern Mustafarians** (SM). This gives them more of a desert turtle origin. For Testudians based more on pond turtles or aquatic turtles, replace the Southern Mustafarian special ability with a similar ability for another environment. The starting rank of Enduring makes sense for a carapace/shell. Testudians are native to Testudar, of course.
 
-In addition to their starting XP for being a Testudian, each character has an additional 150 XP spent on improvements and 1 destiny point. This represents roughly six full sessions of prior play for the team.
+In addition to their starting XP for being a Testudian, each character has an additional 150 XP spent on improvements and 1 destiny point. This represents roughly six full sessions of prior play for the team. They are the crew of the freight-modified **GX1 Short Hauler** (FC 56) PRTY-1.
 
 ## Leader
 
@@ -34,6 +34,11 @@ Species: **Testudian**, Career: **Bounty Hunter** (EE), Specialization: **Martia
 | Piloting (Space) (Agility) | yes | 3 |
 | Vigilance (Willpower) | yes | 2 |
 
+| Weapon | Skill | Damage | Range | Crit | Special |
+| :----- | :---- | -----: | :---- | ---: | ------: |
+| Vibrosword | Melee | +2 | Engaged | 2 | Pierce 2, Vicious 1, Defensive, 1 |
+| Vibroknife | Melee | +1 | Engaged | 2 | Pierce 2, Vicous 1 |
+
 ## Hot Head
 
 Species: **Testudian**, Career: **Hired Gun** (EE), Specialization: **Marauder** (EE)
@@ -61,6 +66,11 @@ Species: **Testudian**, Career: **Hired Gun** (EE), Specialization: **Marauder**
 | Coercion (Willpower) | yes | 2 |
 | Melee (Brawn) | yes | 5 |
 | Resilience (Brawn) | yes | 1 |
+
+| Weapon | Skill | Damage | Range | Crit | Special |
+| :----- | :---- | -----: | :---- | ---: | ------: |
+| Truncheon | Melee | +2 | Engaged | 5 | Disorient 2 |
+| Truncheon | Melee | +2 | Engaged | 5 | Disorient 2 |
 
 ## Tinkerer
 
@@ -91,6 +101,10 @@ Species: **Testudian**, Career: **Technician** (EE), Specialization: **Modder** 
 | Gunnery (Agility) | yes | 2 |
 | Mechanics (Intellect) | yes | 5 |
 | Piloting (Planetary) (Agility) | yes | 1 |
+
+| Weapon | Skill | Damage | Range | Crit | Special |
+| :----- | :---- | -----: | :---- | ---: | ------: |
+| Force Pike | Melee | +3 | Engaged | 2 | Pierce 2, Stun Setting |
 
 ## Clown
 
@@ -124,3 +138,8 @@ Species: **Testudian**, Career: **Smuggler** (EE), Specialization: **Charmer** (
 | Perception (Cunning) | yes | 1 |
 | Skulduggery (Cunning) | yes | 2 |
 | Streetwise (Cunning) | yes | 1 |
+
+| Weapon | Skill | Damage | Range | Crit | Special |
+| :----- | :---- | -----: | :---- | ---: | ------: |
+| Truncheon (chain) | Melee | +2 | Engaged | 5 | Disorient 2 |
+| Truncheon (chain) | Melee | +2 | Engaged | 5 | Disorient 2 |
