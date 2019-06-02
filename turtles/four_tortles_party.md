@@ -1,6 +1,6 @@
 # Four Tortles Party
 
-These characters use the standard D&D 5e rules, the [Artificer](https://dnd.wizards.com/articles/unearthed-arcana/artificer-revisited) preview from [Unearthed Arcana](https://dnd.wizards.com/articles/unearthed-arcana), and _[The Tortle Package](https://www.dndbeyond.com/marketplace/source/the-tortle-package)_ from [D&D Beyond](https://www.dndbeyond.com/). This version of the tortles reflects their personalities and capabilities in class choices, instead of assuming four monks.
+These characters use the standard D&D 5e rules, Xanathar's Guide to Everything for the Bard college, the [Artificer](https://dnd.wizards.com/articles/unearthed-arcana/artificer-revisited) preview from [Unearthed Arcana](https://dnd.wizards.com/articles/unearthed-arcana), and _[The Tortle Package](https://www.dndbeyond.com/marketplace/source/the-tortle-package)_ from [D&D Beyond](https://www.dndbeyond.com/). This version of the tortles reflects their personalities and capabilities in class choices, instead of assuming four monks. Standard D&D weapons are used to represent the weapons you might expect these tortles to wield.
 
 ## Leader
 
@@ -26,6 +26,8 @@ Proficiency Bonus: +3
 | **Claws** | Melee | +2 | 1d6+2 _slashing_ | unarmed |
 | **Longsword** | Melee | +5 | 1d8+2 _slashing_ | Versatile (1d10) |
 | **Shortsword** | Melee | +6 | 1d6+3 _piercing_ | Finesse, light |
+
+**Magic item:** sending stones B (infused by Tinkerer)
 
 **Fighter Abilities:** Fighting Style: Two-Weapon Fighting, Second Wind, Action Surge, Martial Archetype: Battle Master, Combat Superiority (4 dice)
 
@@ -102,14 +104,16 @@ Proficiency Bonus: +3
 | Weapon | Type | To hit | Damage | Notes |
 | :----- | :--- | -----: | -----: | :---- |
 | **Claws** | Melee | +4 | 1d6+1 _slashing_ | unarmed or when holding only staff |
-| **Staff** | Melee | +4 | 1d6+1 _bludgeoning_ | Versatile (1d8) |
+| **Staff** | Melee | +5 | 1d6+2 _bludgeoning_ | Versatile (1d8) |
 
 **Artificer Abilities:** Magical Tinkering, Spellcasting, Infuse Item, Artificer Specialist: Alchemist, Tool Expertise, Arcane Armament, Tools of the Trade, Alchemist Spells, Alchemical Homunculus, Alchemical Mastery
 
 **Spells Prepared**
-* **Cantrips:**
-* **1st level (4):**
-* **2nd level (2):**
+* **Cantrips:** _mend_, _spare the dying_
+* **1st level (4 slots):** _arcane weapon_, _cure wounds_ 
+* **2nd level (2 slots):** _aid_, _arcance lock_, _enhance ability_, _lesser restoration_, _magic weapon_
+
+**Infused Itens:** Enhanced Weapon: staff, sending stones A
 
 **Infusions Known:** Enhanced Weapon, Replicate Magical Item (goggles of night, sending stones, wand of magic detection)
 
@@ -125,7 +129,7 @@ Proficiency Bonus: +3
 
 ## Clown
 
-**6th** level, chaotic good, tortle **monk**
+**6th** level, chaotic good, tortle **bard**
 
 Age: 15, Gender: Male, Size: Medium, Height: 5', Weight: 400 lbs
 
@@ -144,18 +148,24 @@ Proficiency Bonus: +3
 
 | Weapon | Type | To hit | Damage | Notes |
 | :----- | :--- | -----: | -----: | :---- |
-| **Claws** | Melee | +6 | 1d6+3 _slashing_ | unarmed or one club only |
-| **Club** | Melee | +6 | 1d4+3 _bludgeoning_ | Light |
-| **Club** | Melee | +6 | 1d4+3 _bludgeoning_ | Light |
+| **Claws** | Melee | +5 | 1d6+2 _slashing_ | unarmed or one club only |
+| **Club** | Melee | +5 | 1d4+2 _bludgeoning_ | Light |
+| **Club** | Melee | +5 | 1d4+2 _bludgeoning_ | Light |
 
-**Monk Abilities:** (Unarmored Defense), Martial Arts (1d6), Ki (6 points), Unarmored Movement (+15 ft), Monastic Tradition: Way of the Kensei, Path of the Kensei (club, darts), Deflect Missiles, Slow Fall, Extra Attack, Stunning Strike, Ki-Empowered Strikes, One with the Blade
+**Bard Abilities:** Spellcasting, Bardic Inspiration (d8), Jack of All Trades, Song of Rest (d6), Bard College: College of Swords, Fighting Style: Two-Weapon Fighting, Blade Flourish, *Expertise, Font of Inspiration, Countercharm, 
+
+**Spells Known**
+* **Cantrips:** _blade ward_, _thunderclap_, _vicious mockery_
+* **1st level (4 slots):** _charm person_, _cure wounds_, feather fall_
+* **2nd level (3 slots):** _hold person_, _knock_, _skywrite_
+* **3rd level (3 slots):** _bestow curse_, _catnap_, _dispel magic_
 
 **Tortle Abilities:** Hold Breath, Natural Armor, Shell Defense, Survival Instinct
 
-**Proficiencies:** Simple weapons, shortswords, lute, painter's supplies
+**Proficiencies:** Light armor, medium armor, simple weapons, hand crossbows, longswords, rapiers, shortswords, scimitar
 
-**Saving Throws:** Strength, Dexterity
+**Saving Throws:** Dexterity, Charisma
 
-**Skills:** Insight, Stealth
+**Skills:** Acrobatics*, Performance*, Sleight of Hand
 
 **Languages.** You can speak, read, and write Aquan and Common.

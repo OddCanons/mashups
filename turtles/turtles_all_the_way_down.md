@@ -4,11 +4,11 @@ Sometimes you just want a solid team of turtles as your party, no matter the rol
 
 ## ![Dungeons & Dragons 5e](four_tortles.md)
 
-This is a classic group of tortle monks with their own weapon choices.
+This is a classic group of tortle monks with their own weapon choices. There are two versions. The Way of Shadow tortles are classic ninja types. The Way of the Kensei tortles make better use of their weapon choices.
 
 ## ![Dungeons & Dragons 5e party](four_tortles_party.md)
 
-This is a more balanced party of tortles with different classes to reflect their personalities.
+This is a more balanced party of tortles with different classes to reflect their personalities and interests. As a fighter, the leader can actually dual wield effectively, unlike either of the monk options.
 
 ## ![Mutant: Genlab Alpha](mutant_genlab_alpha.md)
 
