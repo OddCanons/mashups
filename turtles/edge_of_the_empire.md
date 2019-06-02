@@ -2,7 +2,7 @@
 
 These rules assume you have the core rule book (EE), _Fly Casual_ (FC), _Special Modifications_ (SM), and _No Disintegrations_ (ND). In order to make these characters completely by the book, Testudians _count as_ **Southern Mustafarians** (SM). This gives them more of a desert turtle origin. For Testudians based more on pond turtles or aquatic turtles, replace the Southern Mustafarian special ability with a similar ability for another environment. The starting rank of Enduring makes sense for a carapace/shell. Testudians are native to Testudar, of course.
 
-In addition to their starting XP for being a Testudian, each character has an additional 150 XP spent on improvement and 1 destiny point. This represents roughly six full sessions of prior play for the team.
+In addition to their starting XP for being a Testudian, each character has an additional 150 XP spent on improvements and 1 destiny point. This represents roughly six full sessions of prior play for the team.
 
 ## Leader
 
@@ -109,7 +109,7 @@ Species: **Testudian**, Career: **Smuggler** (EE), Specialization: **Charmer** (
 | **Congenial** | 1 | FC 32 from FC 27 |
 | **Disarming Smile** | 1 | FC 32 from FC 27 |
 | **Enduring** | 1 | EE 135 from SM 26 |
-| **Improved Inspiring Rhetoric** | EE 137 from FC 27 |
+| **Improved Inspiring Rhetoric** | | EE 137 from FC 27 |
 | **Inspiring Rhetoric** |  | EE 137 from FC 27 |
 | **Just Kidding!** | | FC 33 from FC 27 |
 | **Kill with Kindness** | 2 | EE 138 from FC 27 |
