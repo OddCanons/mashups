@@ -66,7 +66,7 @@ Str: **5**, Ag: **4**, Wits: **3**, Ins: **3**
 | WEAPON | BONUS | DAMAGE | RANGE | COMMENT |
 | :----- | :---: | :----: | :---- | :------ |
 | Claws |  | 1 | Arm's length |  |
-| Sais | +2 | 2 | Arm's length | Two hands. Disarm. |
+| Sai pair | +2 | 2 | Arm's length | Two hands. Disarm. |
 
 **Disarm** weapons allow you to apply the initial success to the disarm stunt. Knock or pull the weapon or object from your opponent instead of causing damage. You may then apply other stunts as normal for extra successes.
 
