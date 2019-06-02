@@ -8,7 +8,7 @@ Species: **Testudian**, Career: **Bounty Hunter** (EE), Specialization: **Martia
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
-| 3 | 12 | 13 | 0 | 0 |
+| 3 | 12 | 14 | 0 | 0 |
 
 | Brawn| Agility | Intellect | Cunning | Willpower | Presence |
 | :---: | :-----: | :-------: | :-----: | :-------: | :------: |
@@ -17,10 +17,18 @@ Species: **Testudian**, Career: **Bounty Hunter** (EE), Specialization: **Martia
 | Talent | Rank | Notes |
 | :----- | ---: | :---- |
 | **Enduring** | 1 | EE 135 from SM 26 |
+| **Grit** | 1 | EE 136 from ND 29 |
+| **Parry** | 1 |ND 35 from ND 29 |
 
 | Skill | Career? | Rank |
-| :---- | :------ | ---: |
-|  |  |  |
+| :---- | :------: | ---: |
+| Brawl (Brawn) | yes | 1 |
+| Coordination (Agility) | yes | 1 |
+| Discipline (Willpower) | yes | 1 |
+| Melee (Brawn) | no | 1 |
+| Perception (Cunning) | yes | 1 |
+| Piloting (Space) (Agility) | yes | 1 |
+| Vigilance (Willpower) | yes | 1 |
 
 
 ## Hot Head
