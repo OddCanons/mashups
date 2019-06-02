@@ -1,6 +1,6 @@
 # Mutant: Genlab Alpha
 
-This group of turtles will work in any of the Mutant: Year Zero books and could be adapted for Coriolis.
+This group of turtles will work in any of the Mutant: Year Zero books and could be adapted for Coriolis. These turtles have non-standard weapons, six advances each, and rank changes to reflect some prior adventuring.
 
 ## Leader
 
