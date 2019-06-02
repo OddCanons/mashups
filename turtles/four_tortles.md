@@ -2,7 +2,7 @@
 
 These characters use the standard D&D 5e rules and _[The Tortle Package](https://www.dndbeyond.com/marketplace/source/the-tortle-package)_ from [D&D Beyond](https://www.dndbeyond.com/). Standard D&D weapons are used to represent the weapons you might expect these tortles to wield.
 
-The Way of the Shadow from the _Player's Handbook_, in many cases, makes for suboptimal weapon combinations and is a bit on the nose (Juvenile Way of the Shadow Monk Tortles). The Four Kenseis section below provides alternate tortles that are more weapon-centric and hit harder in combat. You also get the graffiti-themed calligraphy and paint proficiencies that way. The Way of the Kensei monk path requires _Xanathar's Guide to Everything_.
+The Way of the Shadow from the _Player's Handbook_, in many cases, makes for suboptimal weapon combinations and is a bit on the nose (Juvenile Way of the Shadow Monk Tortles). The Four Kensei section below provides alternate tortles that are more weapon-centric and hit harder in combat. You also get the graffiti-themed calligraphy and paint proficiencies that way. The Way of the Kensei monk path requires _Xanathar's Guide to Everything_.
 
 ## Leader
 
@@ -151,7 +151,7 @@ Proficiency Bonus: +3
 
 **Languages.** You can speak, read, and write Aquan and Common.
 
-# Four Kenseis
+# Four Kensei
 
 ## Leader
 
