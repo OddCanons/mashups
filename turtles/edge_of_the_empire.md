@@ -87,7 +87,7 @@ Species: **Testudian**, Career: **Technician** (EE), Specialization: **Modder** 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
 | **Enduring** | 1 | EE 135 from SM 26 |
-| **Jury Rigged** | | EE 138 from SM 33 |
+| **Jury Rigged:** Force pike (crit) | | EE 138 from SM 33 |
 | **Gearhead** | 1 | EE 136 from SM 33 |
 | **Resolve** | 2 | EE 142 from SM 33 |
 | **Resourceful Refit** | | SM 35 from SM 33 |
@@ -104,7 +104,7 @@ Species: **Testudian**, Career: **Technician** (EE), Specialization: **Modder** 
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
-| Force Pike | Melee | +3 | Engaged | 2 | Pierce 2, Stun Setting |
+| Force Pike | Melee | +3 | Engaged | 1* | Pierce 2, Stun Setting |
 
 ## Clown
 
