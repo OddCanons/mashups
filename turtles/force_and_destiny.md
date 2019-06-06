@@ -2,15 +2,15 @@
 
 These rules assume you have the core rule book (FD), _Endless Vigil_ (EV), _Knights of Fate_ (KF), and _Edge of the Empire: Special Modifications_ (SM). In order to make these characters completely by the Star Wars RPG book, Testudians _count as_ **Southern Mustafarians** (SM). This gives them more of a desert turtle origin. For Testudians based more on pond turtles or aquatic turtles, replace the Southern Mustafarian special ability with a similar ability for another environment. The starting rank of Enduring makes sense for a carapace/shell. Testudians are native to Testudar, of course.
 
-In addition to their starting XP for being a Testudian, each character has an additional 150 XP spent on improvements and 1 destiny point. This represents roughly six full sessions of prior play for the team. They are the crew of the freight-modified **** () Mind's Eye.
+In addition to their starting XP for being a Testudian, each character has an additional 150 XP spent on improvements and 1 destiny point. This represents roughly six full sessions of prior play for the team.
 
 ## Leader
 
-Species: **Testudian**, Career: **** (FD), Specialization: **** (), Force: ****, Morality: **71**
+Species: **Testudian**, Career: **Guardian** (FD), Specialization: **Peacekeeper** (), Force: **1**, Morality: **71**
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
-| 3 | 12 | 13 | 0 | 0 |
+| 3 | 14 | 13 | 0 | 0 |
 
 | Brawn| Agility | Intellect | Cunning | Willpower | Presence |
 | :---: | :-----: | :-------: | :-----: | :-------: | :------: |
@@ -18,10 +18,20 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** (), Force: ****,
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
+| **Command**| 2 | FD  from FD 75 |
+| **Commanding Presence** | 1 | FD 140 from FD 75 |
 | **Enduring** | 1 | FD 142 from SM 26 |
+| **Enhanced Leader** | | FD 142 from FD 75 |
+| **Field Commander** | | FD 143 from FD 75 |
+| **Toughened** | 1 | FD 153 from FD 75 |
 
 | Skill | Career? | Rank |
 | :---- | :------: | ---: |
+| Discipline (Willpower) | yes | 3 |
+| Leadership (Presence) | yes | 3 |
+| Lightsaber (Brawn) | no | 4 |
+| Resilience (Brawn) | yes | 1 |
+| Vigilance (Willpower) | yes | 1 |
 
 
 | Weapon | Skill | Damage | Range | Crit | Special |
@@ -54,11 +64,11 @@ Species: **Testudian**, Career: **Warrior** (FD), Specialization: **Juyo Berserk
 
 | Skill | Career? | Rank |
 | :---- | :------ | ---: |
-| Athletics | yes | 1 |
-| Brawl | yes | 1 |
-| Coercion | yes | 3 |
-| Lightsaber | yes | 4 |
-| Melee | yes | 1 |
+| Athletics (Brawn) | yes | 1 |
+| Brawl (Brawn) | yes | 1 |
+| Coercion (Willpower) | yes | 3 |
+| Lightsaber (Brawn) | yes | 4 |
+| Melee (Brawn) | yes | 1 |
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
@@ -79,22 +89,22 @@ Species: **Testudian**, Career: **Sentinel** (), Specialization: **Artisan** (),
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
-| **Comprehend Technology** | | FD  from FD 93 |
-| **Defensive Slicing** | 2 | FD  from FD 93 |
+| **Comprehend Technology** | | FD 141 from FD 93 |
+| **Defensive Slicing** | 2 | FD 141 from FD 93 |
 | **Enduring** | 1 | FD 142 from SM 26 |
-| **Fine Tuning** | 1 | FD  from FD 93 |
+| **Fine Tuning** | 1 | FD 143 from FD 93 |
 | **Grit** | 1 | FD  from FD 93 |
-| **Technical Aptitude** | 1 | FD  from FD 93 |
-| **Mental Tools** | | FD  from FD 93 |
+| **Technical Aptitude** | 1 | FD 153 from FD 93 |
+| **Mental Tools** | | FD 147 from FD 93 |
 
 | Skill | Career? | Rank |
 | :---- | :------ | ---: |
-| Astrogation | yes | 1 |
-| Computers | yes | 3 |
-| Lightsaber | no | 3 |
-| Mechanics | yes | 2 |
-| Perception | yes | 1 |
-| Skullduggery | yes | 1 |
+| Astrogation (Intellect) | yes | 1 |
+| Computers (Intellect) | yes | 3 |
+| Lightsaber (Brawn) | no | 3 |
+| Mechanics (Intellect) | yes | 2 |
+| Perception (Cunning) | yes | 1 |
+| Skullduggery (Cunning) | yes | 1 |
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
@@ -115,21 +125,21 @@ Species: **Testudian**, Career: **Consular** (FD), Specialization: **Sage** (FD)
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
-| **Confidence** | 1 | FD  from FD 71 |
+| **Confidence** | 1 | FD 141 from FD 71 |
 | **Enduring** | 1 | FD 142 from SM 26 |
-| **Grit** | 3 | FD  from FD 71 |
-| **Kill with Kindness** | 1 | FD  from FD 71 |
-| **Researcher** | 1 | FD  from FD 71 |
-| **Smooth Talker:** Charm | 2 | FD  from FD 71 |
+| **Grit** | 3 | FD 144 from FD 71 |
+| **Kill with Kindness** | 1 | FD 146 from FD 71 |
+| **Researcher** | 1 | FD 150 from FD 71 |
+| **Smooth Talker:** Charm | 2 | FD 152 from FD 71 |
 
 
 | Skill | Career? | Rank |
 | :---- | :------ | ---: |
-| Charm | yes | 4 |
-| Cool | yes | 2 |
-| Leadership | yes | 1 |
-| Lightsaber | no | 3 |
-| Negotiation | yes | 1 |
+| Charm (Presence) | yes | 4 |
+| Cool (Presence) | yes | 2 |
+| Leadership (Presence) | yes | 1 |
+| Lightsaber (Brawn) | no | 3 |
+| Negotiation (Presence) | yes | 1 |
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
