@@ -18,6 +18,10 @@ Big, mutant turtles using the Year Zero Engine.
 
 If there are planets of squids and hammerheads out there, that galaxy has something like a turtle.
 
+## [Star Wars: Force and Destiny](force_and_destiny.md)
+
+You know you really wanted them to be Jedi. You really did. You were reading the Edge of the Empire version thinking, "Where are the lightsabers?" They're here.
+
 ## Invitation
 
 As with other Odd Canon mashups and house rules, you are invited to submit your own groups of four turtles in your favorite game or setting or to submit edits to the groups already listed here.
