@@ -67,7 +67,7 @@ Species: **Testudian**, Career: **Warrior** (FD), Specialization: **Juyo Berserk
 
 ## Tinkerer
 
-Species: **Testudian**, Career: **** (), Specialization: **** (), Force: ****, Morality: **60**
+Species: **Testudian**, Career: **Sentinel** (), Specialization: **Artisan** (), Force: **1**, Morality: **60**
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
@@ -79,10 +79,22 @@ Species: **Testudian**, Career: **** (), Specialization: **** (), Force: ****, M
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
+| **Comprehend Technology** | | FD  from FD 93 |
+| **Defensive Slicing** | 2 | FD  from FD 93 |
 | **Enduring** | 1 | FD 142 from SM 26 |
+| **Fine Tuning** | 1 | FD  from FD 93 |
+| **Grit** | 1 | FD  from FD 93 |
+| **Technical Aptitude** | 1 | FD  from FD 93 |
+| **Mental Tools** | | FD  from FD 93 |
 
 | Skill | Career? | Rank |
 | :---- | :------ | ---: |
+| Astrogation | yes | 1 |
+| Computers | yes | 3 |
+| Lightsaber | no | 3 |
+| Mechanics | yes | 2 |
+| Perception | yes | 1 |
+| Skullduggery | yes | 1 |
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
