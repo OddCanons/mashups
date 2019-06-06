@@ -6,7 +6,7 @@ In addition to their starting XP for being a Testudian, each character has an ad
 
 ## Leader
 
-Species: **Testudian**, Career: **** (FD), Specialization: **** ()
+Species: **Testudian**, Career: **** (FD), Specialization: **** (), Force: ****, Morality: **71**
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
@@ -32,11 +32,11 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 ## Hot Head
 
-Species: **Testudian**, Career: **** (FD), Specialization: **** ()
+Species: **Testudian**, Career: **Warrior** (FD), Specialization: **Juyo Berserker** (KF), Force: **1**, Morality: **42**
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
-| 5 | 14 | 12 | 0 | 0 |
+| 5 | 16 | 12 | 0 | 0 |
 
 | Brawn| Agility | Intellect | Cunning | Willpower | Presence |
 | :---: | :-----: | :-------: | :-----: | :-------: | :------: |
@@ -44,10 +44,21 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
+| **Embrace Your Hate** | 1 | KF 30 from KF 27 |
 | **Enduring** | 1 | FD 142 from SM 26 |
+| **Intimidating** | 1 | FD 145 from KF 27 |
+| **Lethal Blows** | 1 | KF 31 from KF 27 |
+| **Multiple Opponents** | | FD 147 from KF 27 |
+| **Quick Strike** | 1 | FD 150 from KF 127 |
+| **Toughened** | 1 | FD 152 from KF 27 |
 
 | Skill | Career? | Rank |
 | :---- | :------ | ---: |
+| Athletics | yes | 1 |
+| Brawl | yes | 1 |
+| Coercion | yes | 3 |
+| Lightsaber | yes | 4 |
+| Melee | yes | 1 |
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
@@ -56,7 +67,7 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 ## Tinkerer
 
-Species: **Testudian**, Career: **** (), Specialization: **** ()
+Species: **Testudian**, Career: **** (), Specialization: **** (), Force: ****, Morality: **60**
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
@@ -80,11 +91,11 @@ Species: **Testudian**, Career: **** (), Specialization: **** ()
 
 ## Clown
 
-Species: **Testudian**, Career: **** (FD), Specialization: **** ()
+Species: **Testudian**, Career: **Consular** (FD), Specialization: **Sage** (FD), Force: **1**, Morality: **60**
 
 | Soak Value | Wounds Threshold | Strain Threshold |  Ranged Defense | Melee Defense |
 | :-: | :-: | :-: | :-: | :-: |
-| 3 | 12 | 12 | 0 | 0 |
+| 3 | 12 | 15 | 0 | 0 |
 
 | Brawn| Agility | Intellect | Cunning | Willpower | Presence |
 | :---: | :-----: | :-------: | :-----: | :-------: | :------: |
@@ -92,10 +103,21 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
+| **Confidence** | 1 | FD  from FD 71 |
 | **Enduring** | 1 | FD 142 from SM 26 |
+| **Grit** | 3 | FD  from FD 71 |
+| **Kill with Kindness** | 1 | FD  from FD 71 |
+| **Researcher** | 1 | FD  from FD 71 |
+| **Smooth Talker:** Charm | 2 | FD  from FD 71 |
+
 
 | Skill | Career? | Rank |
 | :---- | :------ | ---: |
+| Charm | yes | 4 |
+| Cool | yes | 2 |
+| Leadership | yes | 1 |
+| Lightsaber | no | 3 |
+| Negotiation | yes | 1 |
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
