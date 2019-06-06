@@ -26,6 +26,8 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
+| Basic Lightsaber | Lightsaber | 6 | Engaged | 2 | Breach 1, Sunder |
+| Shoto | Lightsaber | 5 | Engaged | 2 | Accurate 1, Breach 1, Sunder |
 
 
 ## Hot Head
@@ -49,6 +51,8 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
+| Shoto | Lightsaber | 5 | Engaged | 2 | Accurate 1, Breach 1, Sunder |
+| Shoto | Lightsaber | 5 | Engaged | 2 | Accurate 1, Breach 1, Sunder |
 
 ## Tinkerer
 
@@ -71,6 +75,7 @@ Species: **Testudian**, Career: **** (), Specialization: **** ()
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
+| Double-Bladed Lightsaber | Lightsaber | 6 | Engaged | 2 | Breach 1, Linked 1, Sunder, Unwieldy 3 |
 
 
 ## Clown
@@ -83,7 +88,7 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 | Brawn| Agility | Intellect | Cunning | Willpower | Presence |
 | :---: | :-----: | :-------: | :-----: | :-------: | :------: |
-| 2 | 2 | 2 | 3 | 2 | 3 |
+| 2 | 3 | 2 | 2 | 2 | 3 |
 
 | Talent | Rank | Notes |
 | :----- | :---: | :---- |
@@ -94,3 +99,11 @@ Species: **Testudian**, Career: **** (FD), Specialization: **** ()
 
 | Weapon | Skill | Damage | Range | Crit | Special |
 | :----- | :---- | -----: | :---- | ---: | ------: |
+| Lightchako* | Lightsaber | 4 | Engaged | 2 | Breach 1, Disorient 1, Sunder, Unwieldy 3 |
+| Lightchako* | Lightsaber | 4 | Engaged | 2 | Breach 1, Disorient 1, Sunder, Unwieldy 3 |
+
+*For an official weapon, use the Lightwhip (EV 42) instead. The Lightchako is designed to be a shorter, single flail weapon that borrows some from a Shoto and some from a Lightwhip. They have Disorient when the wielder is using at least two Lightchako together.
+
+| Name | Skill | Damage |  Crit | Range | Encum | HP | Price | Rarity | Special |
+| :--- | :---- | -----: |  ---: | :---- | ----: | -: | ----: |-----: | ------: |
+| Lightchako | Lightsaber | 4 | 2 | Engaged | 1 | 1 | (R) pair 18,000 | 10 | Breach 1, Disorient 1*, Sunder, Unwieldy 3 |
