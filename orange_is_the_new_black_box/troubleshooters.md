@@ -1,6 +1,6 @@
-<div style="display: flex">
-  <div style="flex: 33%">
-    <table style="width: 100%">
+<div style="display:flex;">
+  <div style="flex:33%;">
+    <table style="width:100%;">
         <tr>
             <th colspan="4">
                 ATTRIBUTES
@@ -19,9 +19,9 @@
             </td>
         </tr>
     </table>
-    <table style="width: 100%">
+    <table style="width:100%;">
         <tr>
-            <th colspan="4">
+            <t colspan="4">
                 CONDITIONS
             </th>
         </tr>
@@ -37,9 +37,126 @@
             <td>
             </td>
         </tr>
-    <table>
+    </table>
   </div>
-  <div style="flex: 67%">
+  <div style="flex:67%;">
+    <div style="display:flex;">
+        <div style="flex:100%;">
+            <table style="width:100%;">
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        Age:
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        Service Group:
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div style="display:flex;">
+        <div style="flex:100%;">
+            <table style="width:100%;">
+                <tr>
+                    <th>
+                        GEAR
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div style="flex:50%;">
+            <table style="width:100%;">
+                <tr>
+                    <th>
+                        TALENTS
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+            </table>
+            <table style="width:100%;">
+                <tr>
+                    <th>
+                        ARMOR
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div style="display:flex;">
+        <div style="flex:100%;">
+            <table style="width:100%;">
+                <tr>
+                    <th>
+                        WEAPONS
+                    </th>
+                    <th>
+                        Bonus
+                    </th>
+                    <th>
+                        Damage
+                    </th>
+                    <th>
+                        Range
+                    </th>
+                    <th>
+                        Special
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
   </div>
 </div>
-<div style="page-break-after: always;"></div> 
+<div style="page-break-after:always;"></div> 
