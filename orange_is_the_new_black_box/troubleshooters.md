@@ -33,7 +33,7 @@
                         Fatigue
                     </td>
                     <td>
-                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                        :clock12::clock12::clock12::clock12::clock12:
                     </td>
                 </tr>
                 <tr>
@@ -47,7 +47,7 @@
                         Confusion
                     </td>
                     <td>
-                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                        :white_circle::white_circle::white_circle::white_circle::white_circle:
                     </td>
                 </tr>
                 <tr>
@@ -142,7 +142,7 @@
                 </tr>
                 <tr>
                     <td>
-                        :radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button:
+                        :white_circle::white_circle::white_circle::white_circle::white_circle::white_circle::white_circle::white_circle::white_circle::white_circle:
                     </td>
                 </tr>
             </table>
