@@ -21,7 +21,7 @@
     </table>
     <table style="width:100%;">
         <tr>
-            <t colspan="4">
+            <th colspan="4">
                 CONDITIONS
             </th>
         </tr>
