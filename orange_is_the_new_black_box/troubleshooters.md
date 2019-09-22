@@ -19,7 +19,49 @@
                         Damage
                     </td>
                     <td>
-                        :white_circle::white_circle::white_circle::white_circle::white_circle:
+                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Agility
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;&nbsp;
+                    </td>
+                    <td>
+                        Fatigue
+                    </td>
+                    <td>
+                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Wits
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;&nbsp;
+                    </td>
+                    <td>
+                        Confusion
+                    </td>
+                    <td>
+                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Empathy
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;&nbsp;
+                    </td>
+                    <td>
+                        Doubt
+                    </td>
+                    <td>
+                        :radio_button::radio_button::radio_button::radio_button::radio_button:
                     </td>
                 </tr>
             </table>
@@ -34,11 +76,42 @@
                         Starving
                     </td>
                     <td>
+                        :radio_button:
                     </td>
                     <td>
                         Dehydrated
                     </td>
                     <td>
+                        :radio_button:
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Sleepless
+                    </td>
+                    <td>
+                        :radio_button:
+                    </td>
+                    <td>
+                        Hypothermic
+                    </td>
+                    <td>
+                        :radio_button:
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        Critical Injuries:
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        &nbsp;
                     </td>
                 </tr>
             </table>
@@ -63,30 +136,13 @@
             </table>
             <table>
                 <tr>
-                    <th colspan="10">
+                    <th>
                         EXPERIENCE POINTS
                     </th>
                 </tr>
                 <tr>
                     <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
-                    </td>
-                    <td>
+                        :radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button::radio_button:
                     </td>
                 </tr>
             </table>
