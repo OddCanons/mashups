@@ -19,7 +19,7 @@
                         Damage
                     </td>
                     <td>
-                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                        :white_circle::white_circle::white_circle::white_circle::white_circle:
                     </td>
                 </tr>
                 <tr>
@@ -33,7 +33,7 @@
                         Fatigue
                     </td>
                     <td>
-                        :clock12::clock12::clock12::clock12::clock12:
+                        :white_circle::white_circle::white_circle::white_circle::white_circle:
                     </td>
                 </tr>
                 <tr>
@@ -61,7 +61,7 @@
                         Doubt
                     </td>
                     <td>
-                        :radio_button::radio_button::radio_button::radio_button::radio_button:
+                        :white_circle::white_circle::white_circle::white_circle::white_circle:
                     </td>
                 </tr>
             </table>
@@ -76,13 +76,13 @@
                         Starving
                     </td>
                     <td>
-                        :radio_button:
+                        :white_circle:
                     </td>
                     <td>
                         Dehydrated
                     </td>
                     <td>
-                        :radio_button:
+                        :white_circle:
                     </td>
                 </tr>
                 <tr>
@@ -90,13 +90,13 @@
                         Sleepless
                     </td>
                     <td>
-                        :radio_button:
+                        :white_circle:
                     </td>
                     <td>
                         Hypothermic
                     </td>
                     <td>
-                        :radio_button:
+                        :white_circle:
                     </td>
                 </tr>
                 <tr>
