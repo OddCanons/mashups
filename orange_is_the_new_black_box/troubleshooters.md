@@ -1,3 +1,4 @@
+# Troubleshooter Character Sheet
 <table><!--page-->
     <tr><!--page row-->
         <td><!--left col-->
@@ -12,11 +13,13 @@
                         Strength
                     </td>
                     <td>
+                        &nbsp;&nbsp;&nbsp;
                     </td>
                     <td>
                         Damage
                     </td>
                     <td>
+                        :white_circle::white_circle::white_circle::white_circle::white_circle:
                     </td>
                 </tr>
             </table>
@@ -58,6 +61,35 @@
                     </td>
                 </tr>
             </table>
+            <table>
+                <tr>
+                    <th colspan="10">
+                        EXPERIENCE POINTS
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            </table>
         </td><!--end left col-->
         <td><!--right col-->
             <table>
@@ -66,7 +98,7 @@
                         Name:
                     </td>
                     <td>
-                        Age:
+                        Security Clearance:
                     </td>
                 </tr>
                 <tr>
@@ -91,7 +123,7 @@
                         </table>
                     </td>
                     <td>
-                        <table style="width:100%;">
+                        <table>
                             <tr>
                                 <th>
                                     TALENTS
@@ -102,7 +134,7 @@
                                 </td>
                             </tr>
                         </table>
-                        <table style="width:100%;">
+                        <table >
                             <tr>
                                 <th>
                                     ARMOR
@@ -174,4 +206,26 @@
         </td><!--end right col-->
     </tr><!--end page row-->
 </table><!--end page-->
-<br />
+
+---
+
+# Secret Stuff
+
+<table><!--top-->
+    <tr>
+        <td>
+            <b>Secret Society:</b>
+        </td>
+        <td>
+            <b>Degree:</b>
+        </td>
+    </tr>
+</table><!--end top-->
+
+## Mutant Power: 
+
+## Secrets
+
+## Notes
+
+---
