@@ -489,7 +489,7 @@ To aid in quickly looking up rules, the following abbreviations are used along w
     </tr>
 </table><!--end top-->
 
-## Mutant Power: 
+## Mutant Power:  Mutation Points: 1
 
 ## Secrets
 
