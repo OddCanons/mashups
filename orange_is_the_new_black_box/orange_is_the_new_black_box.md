@@ -10,9 +10,9 @@ This mashup adventure assumes the reader is familiar with the Paranoia setting a
 
 ## What you need to play
 
-* [Mutant: Elysium](https://www.modiphius.net/collections/mutant-year-zero/products/mutant-elysium) (ME) by [Modiphius](https://www.modiphius.com/) is the base for the game.
-* [Mutant: Year Zero](https://www.modiphius.net/collections/mutant-year-zero) (MYZ) by [Modiphius](https://www.modiphius.com/) is used for mutations.
-* [Mutant: Mechatron](https://www.modiphius.net/collections/mutant-year-zero/products/mutant-mechatron) (MM) by [Modiphius](https://www.modiphius.com/) is used in this adventure and can be used for other bots.
+* [Mutant: Elysium](https://frialigan.se/en/store/?product_id=3843676143664) (ME) by by [Fria Ligan](https://frialigan.se/) is the base for the game.
+* [Mutant: Year Zero](https://frialigan.se/en/games/mutant-year-zero/) (MYZ) by [Fria Ligan](https://frialigan.se/) is used for mutations.
+* [Mutant: Mechatron](https://frialigan.se/en/store/?product_id=666090831920) (MM) by by [Fria Ligan](https://frialigan.se/) is used in this adventure and can be used for other bots.
 * Any edition of [Paranoia](https://www.mongoosepublishing.com/rpgs/paranoia.html), for background material; the author prefers the [2nd Edition](https://www.drivethrurpg.com/product/255061/Paranoia-Second-Edition).
 * The files in this folder, including printed copies of the [troubleshooter character sheets](troubleshooters.pdf) and [handouts](handouts.pdf), which are generated from the corresponding markdown files.
 * The [mashup rules](mashup_rules.md) cover all additions and changes to the Mutant: Elysium rules to support the Paranoia theme.

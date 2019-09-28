@@ -1,3 +1,25 @@
+# Orange is the New Black Box Characters
+
+## Rules References
+
+To aid in quickly looking up rules, the following abbreviations are used along with the page number(s) from the hard cover rule books.
+
+* [Mutant: Elysium](https://frialigan.se/en/store/?product_id=3843676143664) (ME)
+* [Mutant: Year Zero](https://frialigan.se/en/games/mutant-year-zero/) (MYZ)
+* [Mutant: Mechatron](https://frialigan.se/en/store/?product_id=666090831920) (MM)
+* [Orange is the New Black Box mashup rules](mashup_rules.md) (ONBB)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 # Troubleshooter Character Sheet
 <table><!--page-->
     <tr><!--page row-->
