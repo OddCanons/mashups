@@ -49,7 +49,7 @@ Service groups map to professions in Mutant: Elysium. The table below is based o
 
 Each character has a mutation from the Mutant: Year Zero mutations list (MYZ 71) and starts with a single Mutation Point (MYZ 69). The player or GM may also create other mutations inspired by the edition of Paranoia used as source material or other sources. Mutations follow the rules from Mutant: Year Zero (MYZ 69-77).
 
-Below are some additional mutations to round out the set in Mutant: Year Zero with a 2nd Edition Paranoia theme. In the spirit of Paranoia, they are not particularly balanced, but mostly alighn with the mechanics of Mutant: Year Zero mutations.
+Below are some additional mutations to round out the set in Mutant: Year Zero with a 2nd Edition Paranoia theme. In the spirit of Paranoia, they are not particularly balanced, but mostly align with the mechanics of Mutant: Year Zero mutations.
 
 You can add them to the mutations list table (MYZ 71) as shown below.
 
@@ -68,7 +68,7 @@ You can add them to the mutations list table (MYZ 71) as shown below.
 | 65 | choose from 11-64
 | 66 | Machine Empathy
 
-When choosing mutations, you can also choose from:
+When choosing mutations, you can also choose from these Zone Compendium options.
 * Beastmaster (ZC5 34)
 * Clairvoyance (ZC5 34)
 * Cryokinesis (ZC2 5)
@@ -78,7 +78,7 @@ When choosing mutations, you can also choose from:
 
 Optionally, you can also include any of the animal powers from Mutant: Genlab Alpha as additional mutation options, substituting MP for FP. (61-67)
 
-The psionic mutations are:
+For rules that care about which mutations are psionic in nature, this is the authoritative list of psionic mutations.
 * Beastmaster (ZC5 34)
 * Clairvoyance (ZC5 34)
 * Cryokinesis (ZC2 5)
@@ -189,62 +189,108 @@ Each character is a member of a secret society chosen from the list of secret so
 
 | TYPE | ARMOR RATING | COST | COMMENT
 | ---- | ------------ | ---- | -------
-| Kevlar |  |  |
 | Reflec |  |  |
 
 ## Equipment Classification
 
+This table covers gear from Mutant: Elysium, Mutant: Mechatron, and Mutant: Year Zero.
+
 | ITEM | CLEARANCE | EXPERIMENTAL
 | ---- | --------- | ------------
+| Air Mattress (MYZ 190) | forbidden | N
+| Antidepressants (MYZ 190) | Green | Y
+| Assault Rifle (MYZ 191, 199) | Green | Y
+| Automobile (MYZ 191) | forbidden | N
+| Battery (MYZ 191) | forbidden | N
 | Battle Saw (MM 88, 141) | Indigo | Y
-| Chewing Gum (MM 142) | Infrared | N
 | Bellicin (ME 134) | Green | Y
+| Bicycle (MM 191) | Violet | Y
+| Binoculars (MM 191) | Green | Y
 | Biomechatronics (ME 138-141) | Violet | Y
+| Brass Knuckles (MYZ 86) | Red | N
+| Cassette Player (MM 192) | forbidden | N
+| Chainsaw (MM 192, 199) | forbidden | N
+| Chewing Gum (MM 142) | forbidden | N
 | Combat Armor (ME 76, 134) | Green | Y
+| Comic Book (MYZ 192) | forbidden | N
 | Comm Radio (ME 134) | Red | N
+| Compass (MYZ 192) | Indigo | N
 | Cone Rifle (ONBB) | Blue | Y
+| Diary (MYZ 193) | forbidden | N
+| Diving Gear (MYZ 193) | Infrared | Y
+| Dress (MYZ 193) | forbidden | N
 | Electronic Tools (ME 135) | Indigo | N
 | Energy Armor (ME 76, 135) | Ultraviolet | Y
 | Energy Bank (MM 142) | Violet | Y
+| Energy Pills (MYZ 193) | Blue | Y
 | Extended Comm Radio (ONBB) | Yellow | Y
 | E-Pack (ME 73, 135) | Orange | N
+| Flamethrower (MYZ 87) | Yellow | Y
+| Flare Gun (MYZ 193) | Yellow | Y
+| Flashlight (MYZ 193) | Red | N
 | Frag Grenade (ME 135) | Red | N
+| Gas Mask (MYZ 194) | Blue | Y
 | Gauss Carbine (ME 75) | Blue | Y
 | Gauss Pistol (ME 75, 135) | Yellow | Y
 | Gauss Rifle (ME 75, 136) | Green | Y
+| Guitar (MYZ 196) | forbidden | N
 | Gyrojet Carbine (ME 75, 136) | Violet | Y
 | Gyrojet Pistol (ME 75, 136) | Indigo | Y
-| Kevlar Armor (ONBB) | Red | N
+| Hockey Helmet (MYZ 194) | forbidden | N
+| Hunting Rifle (MYZ 194, 199) | forbidden | N
+| ID Card (MYZ 194) | forbidden | N
+| Katana (MYZ 195, 199) | forbidden | N
+| Kevlar Vest (MYZ 195) | Red | N
 | Laser Barrel (ONBB) | by color | N
 | Laser Pistol (MM 89, 142 & ONBB) | Red | N
 | Laser Rifle (MM 89, 143 & ONBB) | Orange | N
 | Laser Welder (MM 88, 143) | Yellow | N
+| Lifestyle Magazine (MYZ 196) | forbidden | N
 | Lock Bolt (MM 143) | Ultraviolet | N
+| Map (MYZ 196) | forbidden | Y
 | Maser Pistol (MM 89, 143) | Orange | N
 | Nanocarbon Tape (MM 143) | Red | N
 | Nutrition Pills (MM 144) | Green | Y
+| Painkillers (MYZ 196) | Ultraviolet | Y
+| Painting (MYZ 196) | forbidden | N
+| Perfume Bottle (MYZ 196) | forbidden | N
 | Plasma Generator (ONBB) | Violet | Y
 | Plasma Rifle (MM 89, 144) | Indigo | Y
 | Power Tool (MM 145) | Red | N
 | Reconnaissance Armor (ME 76, 137) | Green | Y
 | Reflec Armor (ONBB) | by color | N
+| Regen (MYZ 196) | Indigo | Y
+| Revolver (MYZ 197, 199) | forbidden | N
 | Riot Shield (ME 76) | Blue | N
 | Robogoggles (MM 144) | Violet | Y
+| Scooter (MYZ 197) | forbidden | N
+| Semi-automatic Pistol (MYZ 197, 199) | Orange | Y
 | Scrap Armor (ME 76) | forbidden | N
 | Scrap Club (MM 88) | forbidden | N
+| Scrap Derringer (MYZ 87) | forbidden | N
 | Scrap Knife (MM 88) | forbidden | N
 | Scrap Pistol (ME 75) | forbidden | N
 | Scrap Rifle (ME 75) | forbidden | N
 | Scrap Thrower (ME 75) | forbidden | Y
+| Shotgun (MYZ 197) | forbidden | N
+| Smoke Grenade (MYZ 197) | Blue | Y
+| Soda Can (MYZ 197) | forbidden | N
+| Stimulants | Indigo | Y
 | Stun Baton (ME 74, 137) | Orange | N
 | Stun Gun (ME 75, 137) | Orange | Y
+| Sunglasses (MYZ 198) | Indigo | Y
 | Tool Drone (MM 145) | Ultraviolet | Y
 | Thermal Sight (MM 145) | Blue | Y
 | Truncheon (as Blunt Instrument) (ME 74) | Red | N
+| Tuxedo (MYZ 198) | forbidden | N
 | Ultrasonic Carbine (ME 75, 137) | Orange | Y
+| Umbrella (MYZ 198) | Ultraviolet | Y
 | Vibro Knife (MM 88, 145) | Indigo | Y
+| Video Camera (MYZ 198) | Indigo | Y
 
 ## Exotic Equipment Classification
+
+This table covers gear from Mutant: Genlab Alpha and the Zone Compendiums.
 
 | ITEM | CLEARANCE | EXPERIMENTAL
 | ---- | --------- | ------------
