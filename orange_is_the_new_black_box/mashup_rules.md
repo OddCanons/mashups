@@ -15,10 +15,10 @@ Character creation follows a modified version of the Mutant: Elysium rules for c
 
 1. Choose your name. This may take a long time to get right. You can come back to it.
 1. Choose your service group. This will map to a Mutant: Elysium profession. See the table below.
+1. Roll for a mutation (MYZ 71) and (ONBB).
 1. Distribute 12 attribute points.
 1. Distribute 6 skill points.
 1. Choose your talent.
-1. Roll for or choose a mutation (MYZ 71).
 1. Decide if your mutation is registered. Machine Empathy (ONBB) may not be registered. Your clones would be eliminated on sight.
 1. Choose your secret society.
 1. Your starting reputation within your secret society is 3, modified as follows:
@@ -30,7 +30,7 @@ Character creation follows a modified version of the Mutant: Elysium rules for c
 
 ## Service Groups
 
-Service groups map to professions in Mutant: Elysium. The table below is based on the 2nd Edition of Paranoia. Feel free to map service groups in other editions to Mutant: Elysium roles as makes sense for your missions.
+Service groups map to professions in Mutant: Elysium. The table below is based on the 2nd Edition of Paranoia. Feel free to map service groups in other editions to Mutant: Elysium roles as makes sense for your planned missions.
 
 | SERVICE GROUP | PROFESSION
 | ------------- | ----------
@@ -45,9 +45,9 @@ Service groups map to professions in Mutant: Elysium. The table below is based o
 
 ## Mutations
 
-Each character has a mutation chosen from the Mutant: Year Zero mutations list (MYZ 71)and a single Mutation Point (MYZ 69). The player or GM may also create other mutations inspired by the edition of Paranoia used as source material or other sources.
+Each character has a mutation from the Mutant: Year Zero mutations list (MYZ 71) and starts with a single Mutation Point (MYZ 69). The player or GM may also create other mutations inspired by the edition of Paranoia used as source material or other sources. Mutations follow the rules from Mutant: Year Zero (MYZ 69-77).
 
-Below are some additional mutations to round out the set in Mutant: Year Zero with a 2nd Edition Paranoia theme.
+Below are some additional mutations to round out the set in Mutant: Year Zero with a 2nd Edition Paranoia theme. In the spirit of Paranoia, they are not particularly balanced, but mostly alighn with the mechanics of Mutant: Year Zero mutations.
 
 You can add them to the mutations list table (MYZ 71) as shown below.
 
@@ -63,7 +63,7 @@ You can add them to the mutations list table (MYZ 71) as shown below.
 | 62 | Regeneration
 | 63 | Spectral Vision
 | 64 | Teleport
-| 65 | 
+| 65 | choose from 11-64
 | 66 | Machine Empathy
 
 ### Electroshock
@@ -80,7 +80,7 @@ You have the ability to eat literally anything. You can digest all of it. Anythi
 
 * Eat and fully digest any 1 regular item. Costs 1 MP.
 * Eat and fully digest any 1 heavy item. Costs 2 MP.
-* If the item eaten is at least half organic, no matter how processed or dead, it counts as a eating a ration.
+* For the actions above, if the item eaten is at least half organic, no matter how processed or dead, it counts as a eating a ration.
 
 ### Mechanical Intuition
 
@@ -135,11 +135,11 @@ You have the ability to disappear and instantaneously reappear at a location nea
 * You can teleport yourself and your normal limit in gear you are wearing to a location you can see or are intimately familiar with within short range. Costs 2 MP.
 * You can teleport yourself and your normal limit in gear you are wearing to a location you are intimately familiar with within long range. Costs 3 MP.
 
-### 
-
-
-
 ### Machine Empathy
+
+_This mutation is considered treasonous. Clones even suspected of having this mutation are eliminated on sight._
+
+You have the ability to 
 
 ## Secret Societies
 
@@ -227,7 +227,7 @@ The mashup rules assume the use of the following concepts from the Paranoia worl
 # Mutant: Elysium Rules to Modify or Ignore
 
 * **Age** is not used. No one keeps track of how old they are.
-* **Appearance** is not important, other than equipment worn or carried or treasonous mutations or biomechatronics.
+* **Appearance** is not important, other than equipment worn or carried or treasonous mutations or obvious biomechatronics.
 * **Big Dreams** are not used.
 * **Double Agents** are not used. Every character has one or more secret missions and a mutation. Everyone is a traitor looking for other traitors.
 * **Houses** are not used. Instead troubleshooters are members of service groups.
@@ -235,5 +235,5 @@ The mashup rules assume the use of the following concepts from the Paranoia worl
 * **Patrol Leader** is usually called "Team Leader" and is assigned by some means in the mission briefing.
 * **Relationships** are not used as described in Mutant: Elysium. Instead, characters will develop relationships through their service group and secrect society missions.
 * **Reputation** is used in the context of the secret society.
-* **Security Class** are not used. Use Paranoia's color-coded clearance levels instead.
-* **Zone Rot** is not used. There is no Zone Rot in Paranoia.
+* **Security Classes** are not used. Use Paranoia's color-coded clearance levels instead.
+* **Zone Rot** is not used. There is no Zone Rot in Paranoia. There are plenty of hazards without zone rot. However, feel free to use the zone rot mechanics as part of a specific mission.
