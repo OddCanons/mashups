@@ -51,7 +51,7 @@ Each character has a mutation from the Mutant: Year Zero mutations list (MYZ 71)
 
 Below are some additional mutations to round out the set in Mutant: Year Zero with a 2nd Edition Paranoia theme. In the spirit of Paranoia, they are not particularly balanced, but mostly align with the mechanics of Mutant: Year Zero mutations.
 
-You can add them to the mutations list table (MYZ 71) as shown below.
+You can add them to the mutations list table (MYZ 71) as shown. The new mutations are described below.
 
 | D66 | MUTATION
 | --- | --------
@@ -275,7 +275,7 @@ This table covers gear from Mutant: Elysium, Mutant: Mechatron, and Mutant: Year
 | Shotgun (MYZ 197) | forbidden | N
 | Smoke Grenade (MYZ 197) | Blue | Y
 | Soda Can (MYZ 197) | forbidden | N
-| Stimulants | Indigo | Y
+| Stimulants (MYZ 198) | Indigo | Y
 | Stun Baton (ME 74, 137) | Orange | N
 | Stun Gun (ME 75, 137) | Orange | Y
 | Sunglasses (MYZ 198) | Indigo | Y
@@ -341,6 +341,19 @@ This table covers gear from Mutant: Genlab Alpha and the Zone Compendiums.
 
 ## Equipment Catalog
 
+The gear descriptions below are for the items listed as (ONBB) in the above tables.
+
+### Cone Rifle
+
+### Extended Comm Radio
+
+### Laser Barrel
+
+### Plasma Generator
+
+### Reflec Armor
+
+
 # Paranoia Concepts
 
 The mashup rules assume the use of the following concepts from the Paranoia world.
@@ -365,6 +378,7 @@ The mashup rules assume the use of the following concepts from the Paranoia worl
 * **Age** is not used. No one keeps track of how old they are.
 * **Appearance** is not important, other than equipment worn or carried or treasonous mutations or obvious biomechatronics.
 * **Big Dreams** are not used.
+* **Critical Injuries** (ME 78) for rolls 62-66 are replaced with **Smoking Boots**: Lethal - - -
 * **Double Agents** are not used. Every character has one or more secret missions and a mutation. Everyone is a traitor looking for other traitors.
 * **Houses** are not used. Instead troubleshooters are members of service groups.
 * **Misconduct** is replaced by the standard troubleshooter method of shooting traitors first and finding evidence later.
