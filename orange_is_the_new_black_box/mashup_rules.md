@@ -14,7 +14,7 @@ Character creation follows a modified version of the Mutant: Elysium rules for c
 ## Steps
 
 1. Choose your name. This may take a long time to get right. You can come back to it.
-1. Choose your service group. This will map to a Mutant: Elysium profession. See below.
+1. Choose your service group. This will map to a Mutant: Elysium profession. See the table below.
 1. Distribute 12 attribute points.
 1. Distribute 6 skill points.
 1. Choose your talent.
@@ -27,6 +27,21 @@ Character creation follows a modified version of the Mutant: Elysium rules for c
         1. -4, if you are part of an anti-mutant secret society (e.g. Anti-Mutant)
         1. +2, if your mutation is mental in nature and you are a member of a pro psionic secret society (e.g. Psion)
 1. Choose your starting gear.
+
+## Service Groups
+
+Service groups map to professions in Mutant: Elysium. The table below is based on the 2nd Edition of Paranoia. Feel free to map service groups in other editions to Mutant: Elysium roles as makes sense for your missions.
+
+| SERVICE GROUP | PROFESSION
+| ------------- | ----------
+| Internal Security | Investigator
+| Technical Services | Technician
+| HPD and Mind Control | Procurator
+| The Armed Forces | Soldier
+| PLC | Technician
+| Power Services | Technician
+| Research and Design | Scholar
+| CPU | Officer
 
 ## Mutations
 
@@ -46,27 +61,56 @@ You can add them to the mutations list table (MYZ 71) as shown below.
 | 56 | Polymorphism
 | 61 | Precognition
 | 62 | Regeneration
-| 63-65 | Re-roll
+| 63 | 
+| 64 | Teleport
+| 65 | X-Ray Vision
 | 66 | Machine Empathy
+
+### Electroshock
+
+You have the ability to absorb and generate electrical energy. You can:
+
+* Ignore the fatigue damage from a successful stun weapon attack. Costs 1 MP.
+* Stun someone by touching them, inflicting 2 points of fatigue per MP spent.
+* Add a D6 fatigue damage stun effect to a succesful unarmed attack. Costs 2 MP.
+
+### Matter Eater
+
+You can eat literally anything. You can digest all of it. Anything with an organic component will provide at leat some nourishment. You can:
+
+* Eat and fully digest any 1 regular item. Costs 1 MP.
+* Eat and fully digest any 1 heavy item. Costs 2 MP.
+* If the item eaten is at least half organic, no matter how processed or dead, it counts as a eating a ration.
+
+### Mechanical Intuition
+
+You have always understood the purpose and inner workings of gear. You can:
+
+* Add an additional gear bonus to any roll for which you already get a gear bonus. Every MP spent adds +1 gear bonus.
+* Ignore gear damage. For each MP spent you can ignore one level of gear damage that would have resulted from pushing a roll.
+* Understand the basic purpose and controls of an unfamiliar piece of gear. Costs 2 MP.
+
+### Mental Blast
+
+
+
+### Polymorphism
+
+### Precognition
+
+### Regeneration
+
+### 
+
+### Teleport
+
+### X-Ray Vision
+
+### Machine Empathy
 
 ## Secret Societies
 
 Each character is a member of a secret society chosen from the list of secret societies in the edition of Paranoia used as source material.
-
-## Service Groups
-
-Service groups map to professions in Mutant: Elysium. The table below is based on the 2nd Edition of Paranoia. Feel free to map service groups in other editions to Mutant: Elysium roles as makes sense for your missions.
-
-| SERVICE GROUP | PROFESSION
-| ------------- | ----------
-| Internal Security | Investigator
-| Technical Services | Technician
-| HPD and Mind Control | Procurator
-| The Armed Forces | Soldier
-| PLC | Technician
-| Power Services | Technician
-| Research and Design | Scholar
-| CPU | Officer
 
 # Equipment
 
