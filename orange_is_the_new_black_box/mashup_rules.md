@@ -61,9 +61,9 @@ You can add them to the mutations list table (MYZ 71) as shown below.
 | 56 | Polymorphism
 | 61 | Precognition
 | 62 | Regeneration
-| 63 | 
+| 63 | Spectral Vision
 | 64 | Teleport
-| 65 | X-Ray Vision
+| 65 | 
 | 66 | Machine Empathy
 
 ### Electroshock
@@ -71,12 +71,12 @@ You can add them to the mutations list table (MYZ 71) as shown below.
 You have the ability to absorb and generate electrical energy. You can:
 
 * Ignore the fatigue damage from a successful stun weapon attack. Costs 1 MP.
-* Stun someone by touching them, inflicting 2 points of fatigue per MP spent.
-* Add a D6 fatigue damage stun effect to a succesful unarmed attack. Costs 2 MP.
+* Stun someone by touching them, inflicting 2 points of fatigue damage per MP spent.
+* Add a D6 fatigue damage stun effect to a successful unarmed attack, as if your body were a stun baton. Costs 2 MP.
 
 ### Matter Eater
 
-You can eat literally anything. You can digest all of it. Anything with an organic component will provide at leat some nourishment. You can:
+You have the ability to eat literally anything. You can digest all of it. Anything with an organic component will provide at leat some nourishment. You can:
 
 * Eat and fully digest any 1 regular item. Costs 1 MP.
 * Eat and fully digest any 1 heavy item. Costs 2 MP.
@@ -92,19 +92,52 @@ You have always understood the purpose and inner workings of gear. You can:
 
 ### Mental Blast
 
+You have the ability to generate intense psycho-emotional spikes in the people around you. You can:
 
+* Create an intense psychic burst that dazes the people around you. Every person within 5m of you suffers one point of confusion for each MP spent. And you suffer one point of fatigue for each MP spent.
+* Target one person within short range with a psychic attack. The person suffers D6 confusion damage. Costs 3 MP.
 
 ### Polymorphism
 
+You are a mimic, able to alter your physical appearance to match that of people you have encountered. You can:
+
+* Alter your facial appearance to look like any other clone. Costs 1 MP.
+* Alter your body and facial appearance to match that of any other clone or humanoid that is 75-125% of your mass. Costs 2 MP.
+* Alter your body, facial appearance, and apparent clothing worn to match that of any other clone or humanoid within 50-150% of your mass. Costs 3 MP.
+* Alter your form completely to match any object that is within 25-200% of your mass. Costs 6 MP.
+
 ### Precognition
+
+You have a limited ability to sense the future. You can:
+
+* Intuit if a specific action is "right" or "wrong". Costs 1 MP.
+* Reset a turn by undoing everything that happened in that turn and starting the turn over. You increase your initiative score by 6 and must do something different--Precognition cannot be used just to reroll the same actions in a turn. In effect, you have glimpsed the future and are trying to change it. Costs 6 MP.
 
 ### Regeneration
 
-### 
+You have supernatural recovery powers. You can:
+
+* Heal 1 point of 1 kind of damage. Costs 1 MP.
+* Remove a single condition. Costs 2 MP.
+* Immediately heal a critical injury. Costs 3 MP.
+
+### Spectral Vision
+
+You have the ability to see electromagnetic waves well outside of the visible light spectrum. You can:
+
+* See 
 
 ### Teleport
 
-### X-Ray Vision
+You have the ability to disappear and instantaneously reappear at a location nearby. You can:
+
+* You can teleport yourself and your normal limit in gear you are wearing to a location you can see within near range. Costs 1 MP.
+* You can teleport yourself and your normal limit in gear you are wearing to a location you can see or are intimately familiar with within short range. Costs 2 MP.
+* You can teleport yourself and your normal limit in gear you are wearing to a location you are intimately familiar with within long range. Costs 3 MP.
+
+### 
+
+
 
 ### Machine Empathy
 
