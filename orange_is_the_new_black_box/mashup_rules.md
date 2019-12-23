@@ -15,14 +15,14 @@ Character creation follows a modified version of the Mutant: Elysium rules for c
 
 ## Steps
 
-1. Choose your name. This may take a long time to get right. You can come back to it.
-1. Choose your service group. This will map to a Mutant: Elysium profession. See the table below.
+1. Choose your name following the Paranoia naming convention. This may take a long time to get right. You can come back to it.
+1. Choose or roll for your service group. This will map to a Mutant: Elysium profession. See the table below.
 1. Roll for a mutation (MYZ 71) and (ONBB).
 1. Distribute 12 attribute points.
 1. Distribute 6 skill points.
 1. Choose your talent.
-1. Decide if your mutation is registered. Machine Empathy (ONBB) may not be registered. Your clones would be eliminated on sight.
-1. Choose your secret society.
+1. Decide if your mutation is registered. Machine Empathy (ONBB) may not be registered; your clones would be eliminated on sight.
+1. Choose or roll your secret society.
 1. Your starting reputation within your secret society is 3, modified as follows:
     1. Apply the modifier for the profession to which your service group mapped.
     1. Apply -2 if your mutation is registered, except:
@@ -34,16 +34,17 @@ Character creation follows a modified version of the Mutant: Elysium rules for c
 
 Service groups map to professions in Mutant: Elysium. The table below is based on the 2nd Edition of Paranoia. Feel free to map service groups in other editions to Mutant: Elysium roles as makes sense for your planned missions.
 
-| SERVICE GROUP | PROFESSION
-| ------------- | ----------
-| Internal Security | Investigator
-| Technical Services | Technician
-| HPD and Mind Control | Procurator
-| The Armed Forces | Soldier
-| PLC | Technician
-| Power Services | Technician
-| Research and Design | Scholar
-| CPU | Officer
+| Roll D10 | SERVICE GROUP | PROFESSION
+| -------- | ------------- | ----------
+| 1 | Internal Security | Investigator
+| 2 | Technical Services | Technician
+| 3 | HPD and Mind Control | Procurator
+| 4 | The Armed Forces | Soldier
+| 5 | PLC | Technician
+| 6 | Power Services | Technician
+| 7 | Research and Design | Scholar
+| 8 | CPU | Officer
+| 9 or 10 | Choose from above | 
 
 ## Mutations
 
@@ -78,7 +79,7 @@ When choosing mutations, you can also choose from these Zone Compendium options.
 
 Optionally, you can also include any of the animal powers from Mutant: Genlab Alpha as additional mutation options, substituting MP for FP. (61-67)
 
-For rules that care about which mutations are psionic in nature, this is the authoritative list of psionic mutations.
+For rules that care about which mutations are psionic in nature, this is the authoritative list of psionic mutations:
 * Beastmaster (ZC5 34)
 * Clairvoyance (ZC5 34)
 * Cryokinesis (ZC2 5)
@@ -383,10 +384,10 @@ The mashup rules assume the use of the following concepts from the Paranoia worl
 * **Houses** are not used. Instead troubleshooters are members of service groups.
 * **Misconduct** is replaced by the standard troubleshooter method of shooting traitors first and finding evidence later.
 * **Patrol Leader** is usually called "Team Leader" and is assigned by some means in the mission briefing.
-* **Relationships** are not used as described in Mutant: Elysium. Instead, characters will develop relationships through their service group and secrect society missions.
+* **Relationships** are not used as described in Mutant: Elysium. Instead, characters will develop relationships through their service group and secret society missions.
 * **Reputation** is used in the context of the secret society.
 * **Security Classes** are not used. Use Paranoia's color-coded clearance levels instead.
-* **Zone Rot** is not used. There is no Zone Rot in Paranoia. There are plenty of hazards without zone rot. However, feel free to use the zone rot mechanics as part of a specific mission. Rot can also be used as the mechanic for exposure to radition from sources like leaking power plants, energy grenades, and tac nuke cone rifle shells.
+* **Zone Rot** is not used. There is no Zone Rot in Paranoia. There are plenty of hazards without zone rot. However, feel free to use the zone rot mechanics as part of a specific mission. Rot can also be used as the mechanic for exposure to radiation from sources like leaking power plants, energy grenades, and tac nuke cone rifle shells.
 
 # Other Rules
 
